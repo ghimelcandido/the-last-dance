@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "134131338834",
+    "project_id": "espaco-cultural-unifor-610d6",
+    "storage_bucket": "espaco-cultural-unifor-610d6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134131338834:android:ddda26896b1b35662b998b",
+        "android_client_info": {
+          "package_name": "com.example.trabalhodesenvolvimentoplataformamoveis"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuoqFihLGSuIkrqljUZ94wMJJAhiOx9Xw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

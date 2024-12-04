@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Trabalho Desenvolvimento Plataforma Moveis</string>
+    <string name="editar">editar</string>
+    <string name="remover">remover</string>
+    <string name="descricao_arte_placeholder">descricao</string>
+    <string name="titulo_arte_placeholder">titulo</string>
+    <string name="imagem_arte_desc">arte</string>
+</resources>
